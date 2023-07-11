@@ -5,5 +5,5 @@
 | Название и ссылка | Краткое описание | Инструменты |  
 |-----------|---------------------------------------|-----------------------------------|
 |[Assessment_of_operators](Assessment_of_operators/)|Оценка эффективности операторов КЦ по трем критериям двумя способами|pandas, seaborn, matplotlib, plotly, numpy, sklearn, scipy.stats|
-|AB_test_project|Анализ АВ теста (проверка дат, конкурирующего теста, пересечения акций, распределения групп, стат.тесты)|pandas, seaborn, matplotlib, plotly, numpy, scipy.stats|
+|[AB_test_project](AB_test_project/)|Анализ АВ теста (проверка дат, конкурирующего теста, пересечения акций, распределения групп, стат.тесты)|pandas, seaborn, matplotlib, plotly, numpy, scipy.stats|
 |SQL_project|Анализ БД о книгах, издательствах, авторах, пользовательских обзорах и оценках|SQL (и для подключения к базе: Python sqlalchemy)|
